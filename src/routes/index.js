@@ -1,0 +1,6 @@
+export { default as user } from './user.routes.js'
+export { default as book } from './book.routes.js'
+export { default as admin } from './admin.routes.js'
+export { default as category } from './category.routes.js'
+export { default as bookshelf } from './bookshelf.routes.js'
+export { default as transaction } from './transaction.routes.js'
